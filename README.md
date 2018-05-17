@@ -1,2 +1,2 @@
 # Simple-calculator
-JS calculator
+JavaScript calculator
