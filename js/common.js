@@ -48,3 +48,9 @@ multiply.onclick = function () {
 		alert('Введены некорректные данные');
 	}
 };
+
+reset.onclick = function () {
+	document.getElementById("numOne").value = "";
+	document.getElementById("numTwo").value = "";
+	document.getElementById("result").innerHTML = "";
+};
